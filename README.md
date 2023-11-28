@@ -2,7 +2,7 @@
 
 ## Metropolitan State University - Saint Paul, MN
 
-* Copied from https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset
+* CSV copied from https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset in Sept 2023
 
 ## Description
 
